@@ -1,3 +1,6 @@
+/*This exercise involves creating a Main class with a main method. In the main method,
+ create instances of AutoFamiliar and AutoDeportivo, set their properties,
+ and print out their properties.*/
 public class Main {
     public static void main(String[] args) {
         Automovil autoFamiliar= new AutoFamiliar();

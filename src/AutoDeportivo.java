@@ -1,3 +1,6 @@
+/*This exercise involves creating a class AutoDeportivo that extends
+ Automovil. The AutoDeportivo class should have an additional property esConvertible
+(convertible) and should provide an implementation for the acelerar method.*/
 public class AutoDeportivo extends  Automovil {
     private  boolean esConvertible;
 

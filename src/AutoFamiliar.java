@@ -1,3 +1,6 @@
+/*This exercise involves creating a class AutoFamiliar that also extends Automovil.
+ The AutoFamiliar class should have an additional property cantAsientos (number of seats)
+  and should also provide an implementation for the acelerar method.*/
 public class AutoFamiliar extends Automovil {
     private int cantAsientos;
 

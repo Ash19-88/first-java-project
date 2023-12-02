@@ -1,3 +1,9 @@
+/*This exercise involves creating an abstract class Automovil with the following properties and methods:
+Properties: marca (brand), modelo (model), anioFabricacion (year of manufacture).
+Methods: acelerar (accelerate) (abstract), frenar (brake) (returns a string "Frenando"),
+and getters and setters for each property.
+The acelerar method is abstract, which means it does not have an
+implementation in the Automovil class and must be implemented in any class that extends Automovil.*/
 public abstract class Automovil {
     private String marca;
     private String modelo;

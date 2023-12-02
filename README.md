@@ -19,4 +19,4 @@ To install this project, follow these steps:
 This repository contains basic Java exercises. Each exercise is contained in its own .java file. To use an exercise, simply open the corresponding file and follow the instructions in the code.
 
 ## Credits
-This project was created by Ayelen. If you have any questions or suggestions, feel free to open an issue in this repository.
+This project was created by [Ash](https://github.com/Ash19-88). If you have any questions or suggestions, feel free to open an issue in this repository.
